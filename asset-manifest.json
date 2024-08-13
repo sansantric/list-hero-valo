@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/list-hero-valo/static/css/main.ce2f7d64.css",
+    "main.js": "/list-hero-valo/static/js/main.8dce3aa7.js",
+    "static/js/453.b704bc9f.chunk.js": "/list-hero-valo/static/js/453.b704bc9f.chunk.js",
+    "static/media/valo.png": "/list-hero-valo/static/media/valo.ae7d1782ef800d29fc54.png",
+    "static/media/Anta-Regular.ttf": "/list-hero-valo/static/media/Anta-Regular.0e0da7a3dc95e085b230.ttf",
+    "index.html": "/list-hero-valo/index.html",
+    "main.ce2f7d64.css.map": "/list-hero-valo/static/css/main.ce2f7d64.css.map",
+    "main.8dce3aa7.js.map": "/list-hero-valo/static/js/main.8dce3aa7.js.map",
+    "453.b704bc9f.chunk.js.map": "/list-hero-valo/static/js/453.b704bc9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2f7d64.css",
+    "static/js/main.8dce3aa7.js"
+  ]
+}
